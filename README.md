@@ -1,5 +1,2 @@
 # hello-world
-github lernen
-
-das ist das erste commit auf github
-hier kommt die zweite Änderung.
+Bitte weitergehen, Hier gibt es nichts zu sehen :)
