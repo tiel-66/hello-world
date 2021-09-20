@@ -1,0 +1,1 @@
+Das ist ein Test mit Umlauten ÄÜÖ mit Visual Studio Code erstellt
