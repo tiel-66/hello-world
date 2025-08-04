@@ -30,14 +30,14 @@ Implementiert eine generische Zustandsmachine in c#, deren Zustände und Kommand
   - ExitAfterStateChangedEvent
     - wird nach dem Wechsel in den Endzustand ausgelöst
   
-  # Klassen
-  ## StateTransition<T_State, T_TransitionCommand>
+## Klassen
+### StateTransition<T_State, T_TransitionCommand>
   - kapselt einen Ausgangszustand und ein Kommando, mit dem der Ausgangszustand verlassen werden kann
   - T_STATE und T_TransitionCommand müssen vom Typ System.Enum sein
   
-  ## StateTransitionManager<T_State, T_TransitionCommand>
+### StateTransitionManager<T_State, T_TransitionCommand>
   
-  ## StateMachine<T_State, T_TransitionCommand>
+### StateMachine<T_State, T_TransitionCommand>
   
-   ## SpecialStates<T_State>
-   - Hilfsstruktur für reduzierte StateMachine Konstruktor-Argumente
+### SpecialStates<T_State>
+  - Hilfsstruktur für reduzierte StateMachine Konstruktor-Argumente
